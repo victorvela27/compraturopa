@@ -7,7 +7,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-11 mx-auto">
-        <h1 class="text-white font-tertiary">Hola, bienvenidos a<br> compraturopa.com<br></h1>
+        <h1 class="text-white font-tertiary">Hola, Bienvenidos a<br> compraturopa.com<br></h1>
       </div>
     </div>
   </div>
